@@ -1,5 +1,4 @@
-<h3>Software Developer Junior </h3>
-
+ <div>
  <a href="https://www.linkedin.com/in/breno-m-52a300141/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>   
@@ -7,6 +6,7 @@
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white">
     </a>
  </div>
+ <hr>
   
 <div>
   <a href="https://github.com/Breno-Moura">
