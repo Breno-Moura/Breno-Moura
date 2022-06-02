@@ -4,7 +4,10 @@
  </a>   
   <a href = "mailto:brenomoura.contato@gmail.com">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white">
-    </a>
+ </a>
+ <a href="https://www.instagram.com/brenokurt/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+ </a>
  </div>
  <hr>
   
