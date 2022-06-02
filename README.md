@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white">
     </a>
  </div>
- <hr>
   
 <div>
   <a href="https://github.com/Breno-Moura">
